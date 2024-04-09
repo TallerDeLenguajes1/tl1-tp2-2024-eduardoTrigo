@@ -1,0 +1,4 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+-No lo estaria viendo en la representación gráfica del historial de versiones del repositorio
+pero en el vs code si lo estaria visualizando a pesar de cambiar de rama.
+
