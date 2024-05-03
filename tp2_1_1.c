@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 int main()
 {
 
@@ -9,7 +10,7 @@ int main()
     for (i = 0; i < N; i++)
     {
         vt[i] = 1 + rand()% 100;
-        printf("%f\n", vt[i]);
+        printf("%.2f\n", vt[i]);
     }
     return 0;
 }
